@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on my portfolio as a web developer
-- 🌱 I’m currently learning product design, agile methodologies at Platzi.
+- 🔭 I am a software engineering student.
+- 🌱 I’m currently learning Pyhton.
 - 💬 Ask me about: anything!
 - 📫 How to reach me: Instagram https://www.instagram.com/xiomiau.dev/
