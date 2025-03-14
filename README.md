@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I am a software engineering student.
-- 🌱 I’m currently learning Pyhton.
+- 🌱 I’m currently learning Java.
 - 💬 Ask me about: anything!
 - 📫 How to reach me: Instagram https://www.instagram.com/xiomiau.dev/
